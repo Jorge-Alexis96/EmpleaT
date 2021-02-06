@@ -40,7 +40,7 @@ body {
   /* height: 250px; */
   background: no-repeat center center fixed;
   background-size: cover;
-  background-image: linear-gradient(rgba(20, 40, 80, 0.75), rgba(20, 40, 80, 0.75)), url(/portafolio/EmpleaT/img/registo1.jpg);
+  background-image: linear-gradient(rgba(20, 40, 80, 0.75), rgba(20, 40, 80, 0.75)), url(../img/perfil.jpg);
 }
 
 /* .containerBuscador .buscador{
@@ -164,7 +164,7 @@ body {
 .containerDatos {
   background: no-repeat center center fixed;
   background-size: cover;
-  background-image: linear-gradient(rgba(0, 168, 204, 0.75), rgba(0, 168, 204, 0.75)), url(/portafolio/EmpleaT/img/registo1.jpg);
+  background-image: linear-gradient(rgba(0, 168, 204, 0.75), rgba(0, 168, 204, 0.75)), url(../img/registo1.jpg);
 }
 
 /* .containerDatos .datos {
@@ -264,7 +264,7 @@ body {
 .containerDatosCovid {
   background: no-repeat center center fixed;
   background-size: cover;
-  background-image: linear-gradient(rgba(20, 40, 80, 0.75), rgba(20, 40, 80, 0.75)), url(/portafolio/EmpleaT/img/mask-challenge-1-e1589802293174.jpg);
+  background-image: linear-gradient(rgba(20, 40, 80, 0.75), rgba(20, 40, 80, 0.75)), url(../img/mask-challenge-1-e1589802293174.jpg);
 }
 
 /* .containerDatosCovid .datos {
